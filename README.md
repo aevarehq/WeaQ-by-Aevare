@@ -39,8 +39,8 @@ Once you have both keys, open WeaQ and enter them on the intro screen. That's it
 No build step, no dependencies, no server required. Just clone and open.
 
 ```bash
-git clone https://github.com/aevarehq/weaq
-cd weaq
+git clone https://github.com/aevarehq/WeaQ-by-Aevare
+cd WeaQ-by-Aevare
 open index.html
 ```
 
